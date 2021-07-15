@@ -1,0 +1,10 @@
+	"name": "No Loss Token",
+    "website": "https://nolossproject.com",
+    "description": "No Loss Token is the official token of No Loss - the first loss prevention project.",
+    "explorer": "https://bscscan.com/token/0xB6d3ed3CAef8aB834CfDd5FdF4aBE15e3e46d959",
+    "type": "BEP20",
+    "symbol": "NLT",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xB6d3ed3CAef8aB834CfDd5FdF4aBE15e3e46d959"
+}
